@@ -3,7 +3,7 @@
 Personal branding is marketing yourself and career as a brand. Even if you never made a concentrated effort to “create” your brand, you still have one. Here’s how to see it:
 
 - Google your full name (in quotes) + the town and state you grew up in 
-- Most likely your Facebook, Twitter, or LinkedIn profile appears in the results (if not, try the city + state you live in now)
+- Most likely your Facebook, Twitter,  Reddit or LinkedIn profile appears in the results (if not, try the city + state you live in now)
 
 
 Here’s the reality: recruiters and hiring managers are Googling your name. And this is what they’re seeing. The goal of this unit is to get you thinking of yourself as a brand and understand the ways you can build and establish your personal brand through online channels.
@@ -20,11 +20,15 @@ When applying for jobs, a personal brand can also distinguish you from the compe
 
 Here are specific ways you can curate your personal brand:
 
-1. Creating an online portfolio/personal site
-2. Social media presence (namely LinkedIn and Twitter)
-3. Consistently building new projects
-4. Starting and keeping a consistent blog
-5. Speaking at meetups/events
+1. Business Card / email signature
+2. Resumes / cover letters 
+3. Creating an online portfolio/personal site
+4. Social media presence (namely LinkedIn, Twitterand Reddit)
+5. Consistently building new projects / doing research / maintaining a home lab
+6. Starting and keeping a consistent blog
+7. Speaking at meetups/events
+8. Participating in Bug Bounties / CTF Competition / writing White Papers
+9. Speaking at meetups/events / attending conferences
 
 
 Even your email address and business cards say something about your brand.
@@ -68,4 +72,3 @@ Your personal brand matters because it’s what employers consider when reviewin
 
 In upcoming lessons, we'll cover effective ways to build your brand.
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/your-personal-brand-building'>Your Personal Brand Building</a> on Learn.co and start learning to code for free.</p>
